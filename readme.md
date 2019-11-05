@@ -39,13 +39,14 @@ Neo4j and it's prerequisites like Java (https://neo4j.com/download/)
 
 7. The generated Knowledge Graph should look like:
 
-   ![Knowledge Graph Basic](result/knowledge_graph_basic.png)
+   ![Knowledge Graph Basic](https://github.com/kramankishore/Knowledge-Graph-Intro/blob/master/result/Knowledge_Graph_Basic.png)
 
 #
 
 Note:
 
-The text used for demonstration is:
-'Startup companies create jobs and innovation. Bill Gates supports entrepreneurship.'
+- The text used for demonstration is:
 
-To delete all nodes in your Neo4j (in case you are experimenting), explicitly call the function delete_all_nodes in graphPopulation.py
+### Startup companies create jobs and innovation. Bill Gates supports entrepreneurship.
+
+- To delete all nodes in your Neo4j (in case you are experimenting), explicitly call the function delete_all_nodes in graphPopulation.py
