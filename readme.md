@@ -1,3 +1,7 @@
+## Find full article here:
+
+https://medium.com/@k.ramankishore/a-knowledge-graph-implementation-tutorial-for-beginners-3c53e8802377
+
 ## Pre-requisites:
 
 Python (https://www.python.org/downloads/)
