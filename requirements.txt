@@ -35,6 +35,6 @@ textacy==0.9.1
 thinc==7.3.1
 toolz==0.10.0
 tqdm==4.37.0
-urllib3==1.25.6
+urllib3==1.26.5
 wasabi==0.3.0
 zipp==0.6.0
